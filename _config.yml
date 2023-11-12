@@ -6,7 +6,8 @@ author: Deler Aziz
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
-
+github:
+  is_project_page: false
 # sirius93/cayman-theme-custom configs
 darkmode: true
 hide_first_title: true
